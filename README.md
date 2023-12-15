@@ -8,7 +8,7 @@ You can easily write down almost any value you need, delete a registry branch or
 - [x] Registry create branch and write value
 - [x] Registry delete branch or value
 
-sample in main.cpp
+sample in registryWrapper.cpp
 
 contributions are welcome.
 
